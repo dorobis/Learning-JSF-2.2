@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+body {
+	font:small-caps;
+	font-family:sans-serif;
+}
+
+.header,.footer  {
+	background-color:navy;
+	color:white;
+	width:100%;
+}
+
+.header {
+	font-size:36px;
+	line-height:48px;
+}
+
+.footer {
+	font-size:18px;
+	line-height:28x;
+}
+
+.content {
+	background-color:white;
+	color:black;
+	font-size:12px;
+	line-height:24px;
+	width:100%;
+}
+
+#redStuff {
+	background-color:red;
+	color:black;
+}
+
+#greenStuff {
+	background-color:green;
+	color:black;
+}
